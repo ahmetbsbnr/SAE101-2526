@@ -9,7 +9,7 @@ Le Nombre Caché
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "aleatoire.c"
+#include "aleatoire.h"
 
 int Vmini = 500;
 int Vmaxi = 1000;
